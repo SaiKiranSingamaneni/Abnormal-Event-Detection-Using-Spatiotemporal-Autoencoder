@@ -1,0 +1,7 @@
+ffmpeg
+numpy
+imutils
+keras
+matplotlib
+opencv-python
+tensorflow
